@@ -1,4 +1,4 @@
-Registration Form (Using Mysql,php,html,Bootspap,css)
+Registration Form (Using Mysql,php,html,Bootstrap,css)
 Steps-
 1.Goto Xampp
 2.Open and start Apache and Mysql Server
